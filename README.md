@@ -52,8 +52,7 @@
 
 ## A video Demo
 
-*coming soon*
-
+<iframe width="1452" height="799" src="https://www.youtube.com/embed/pONO_bHGHVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Getting started
