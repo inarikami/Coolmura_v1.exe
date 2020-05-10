@@ -52,8 +52,8 @@
 
 ## A video Demo
 
-<iframe width="1452" height="799" src="https://www.youtube.com/embed/pONO_bHGHVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Demo](https://img.youtube.com/vi/pONO_bHGHVI/0.jpg)](https://www.youtube.com/embed/pONO_bHGHVI "Demo")
 
 # Getting started
 
