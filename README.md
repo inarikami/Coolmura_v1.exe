@@ -2,8 +2,8 @@
     <img src="./assets/banner.png" alt="IMAGE ALT TEXT HERE" width="40%" height="40%"/>
 </p>
 <p align="center">
-    <b style="font-size:40px">Tarkov Wireless Exploit</b><br>
-    <a>Escape from Tarkov wireless cheating PoC</a>
+    <b style="font-size:40px">Tarkov Wireless Vulnerability</b><br>
+    <a>Escape from Tarkov wireless vulnerability PoC</a>
 </p>
 
 -----
